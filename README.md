@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @HusainDarji-apexon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohd Hussain Darji
+- 👀 I’m interested in UI Designing and Full Stack Development
+- 🌱 I’m currently learning .NET 
+- 📫 Reach me ...  husain.darji@apexon.com
+
+
 
 <!---
 HusainDarji-apexon/HusainDarji-apexon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
